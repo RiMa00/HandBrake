@@ -19,7 +19,7 @@ Make sure to edit ssid and password credentials:
 #include <WiFiClient.h>
 #include <ESP8266WebServer.h>
 #include "index.h" //HTML
-const char* ssid = "your_ssid; //WiFi ssid
+const char* ssid = "your_ssid"; //WiFi ssid
 const char* password = "your_password"; //WiFi pass
 ESP8266WebServer server(80); //Start Server on port 80
 ```
