@@ -27,6 +27,10 @@ ESP8266WebServer server(80); //Start Server on port 80
 C header source file. It contains html code stored in a char MAIN_page so Arduino can read it as a character value. Using PROGMEM variable modifier, the file is stored into flash memory, instead of into SRAM where it would normally go. 
 ### `ibus.cpp`
 The file containing IBus protocol that structures data coming through the serial port. Data is structured in a specific way so the feeder can recognize it. 
+
+Protocol description: http://blog.dsp.id.au/posts/2017/10/22/flysky-ibus-protocol/
+
+GitHub repo: https://github.com/bmellink/IBusBM
 ### `Web Final.html`
 Web page for handbrake monitoring and control. Thanks https://www.highcharts.com/ for data visualization scripts.
 
@@ -66,7 +70,7 @@ Adding axis and configuring it:
   <img src="https://github.com/RiMa00/HandBrake/blob/main/Project%20Images/vJoyFeeder%20Setting2.png" width="500" title="vJoy axis">
 </p>
 
-## Wireing
+## Wiring
 
  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Breadboard  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; Schematics                                 
 <p align="center">
