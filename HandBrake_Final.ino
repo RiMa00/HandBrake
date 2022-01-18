@@ -403,5 +403,4 @@ void loop(void) {
   introOneTime ();
   handleSwitch();
   server.handleClient();  //Handle client requests
-
 }
