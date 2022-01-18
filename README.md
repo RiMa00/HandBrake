@@ -71,12 +71,12 @@ Adding axis and configuring it:
 </p>
 
 ## Wiring
-
- &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Breadboard  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; Schematics                                 
-<p align="center">
+Breadboard & Schematics                             
+<p align="Center">
   <img src="https://github.com/RiMa00/HandBrake/blob/main/Project%20Images/Scheme.png" width="400" title="Breadboard">
   <img src="https://github.com/RiMa00/HandBrake/blob/main/Project%20Images/Wire.png" width="400" title="Schematics">
-</p>
+  </p>
+
 
 ## Some project photos :sunglasses:
 <p align="center">
