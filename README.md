@@ -54,9 +54,9 @@ as well as for gauge:
 
 
 ## vJoySerialFeeder
-A program for feeding data from a serial port to a virtual joystick. GitHub repo https://github.com/Cleric-K/vJoySerialFeeder.
+A program for feeding data from a serial port to a virtual joystick. GitHub repo: https://github.com/Cleric-K/vJoySerialFeeder.
 
-Driver download https://sourceforge.net/projects/vjoystick/.
+Driver download: https://sourceforge.net/projects/vjoystick/.
 
 After installing driver make sure it's visible in device manager:
 
