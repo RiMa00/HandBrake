@@ -1,7 +1,7 @@
 # SimRacing Web controlled Handbrake
 
 <p align="center">
-  <img src="https://github.com/RiMa00/HandBrake/blob/main/Project%20Images/cover%20final.jpg" width="450" title="Cover">
+  <img src="https://github.com/RiMa00/HandBrake/blob/main/Project%20Images/0.jpg" width="450" title="Cover">
 </p>
 
 
