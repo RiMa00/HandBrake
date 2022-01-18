@@ -16,5 +16,7 @@ Web page for handbrake monitoring and control. Thanks https://www.highcharts.com
 ## vJoySerialFeeder
 A program for feeding data from a serial port to a virtual joystick. GitHub repo https://github.com/Cleric-K/vJoySerialFeeder.
 Driver download https://sourceforge.net/projects/vjoystick/.
+After installing driver make sure it's visible in device manager:
+
 
 
