@@ -25,7 +25,7 @@ void IBus::end() {
 
 /*
  * Write 16bit value in little endian format and update checksum
- */
+*/
 void IBus::write(unsigned short val) {
   byte b = val & 0xff;
   Serial.write(b);
