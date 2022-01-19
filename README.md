@@ -78,7 +78,7 @@ Breadboard & Schematics
   </p>
 
 ## Installation
-
+Download .zip file, extract it and rename it to `"HandBrake_Final"` (same as .ino sketch file).
 
 
 
@@ -101,7 +101,7 @@ Breadboard & Schematics
 </p>
 
 ## Short demo
-
+https://youtu.be/ECc_0SLQZgw
 
 
 
