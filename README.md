@@ -95,7 +95,8 @@ Breadboard & Schematics
   <img src="https://github.com/RiMa00/HandBrake/blob/main/Project%20Images/1.jpg" width="400" >
 </p>
 
-
+## Short demo
+https://github.com/RiMa00/HandBrake/blob/main/Project%20Images/demo.mp4
 
 
 
