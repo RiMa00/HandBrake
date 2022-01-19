@@ -77,6 +77,11 @@ Breadboard & Schematics
   <img src="https://github.com/RiMa00/HandBrake/blob/main/Project%20Images/Wire.png" width="400" title="Schematics">
   </p>
 
+## Installation
+
+
+
+
 
 ## Some project photos :sunglasses:
 <p align="center">
@@ -96,7 +101,8 @@ Breadboard & Schematics
 </p>
 
 ## Short demo
-https://github.com/RiMa00/HandBrake/blob/main/Project%20Images/demo.mp4
+
+
 
 
 
