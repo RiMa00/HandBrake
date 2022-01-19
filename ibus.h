@@ -9,6 +9,5 @@ class IBus {
   
     void begin();
     void end();
-    void write(unsigned short);
-    
+    void write(unsigned short);  
 };
