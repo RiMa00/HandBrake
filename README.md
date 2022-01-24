@@ -85,19 +85,20 @@ Download .zip file, extract it and rename it to `"HandBrake_Final"` (same as .in
 
 ## Some project photos :sunglasses:
 <p align="center">
-
-  <img src="https://github.com/RiMa00/HandBrake/blob/main/Project%20Images/14.jpg" width="400" >
-  <img src="https://github.com/RiMa00/HandBrake/blob/main/Project%20Images/13.jpg" width="400" >
-  <img src="https://github.com/RiMa00/HandBrake/blob/main/Project%20Images/12.jpg" width="400" >
+  
+  <img src="https://github.com/RiMa00/HandBrake/blob/main/Project%20Images/breadboard.jpg" width="400" >
+  <img src="https://github.com/RiMa00/HandBrake/blob/main/Project%20Images/8.jpg" width="400" >
   <img src="https://github.com/RiMa00/HandBrake/blob/main/Project%20Images/10.jpg" width="400" >
+  <img src="https://github.com/RiMa00/HandBrake/blob/main/Project%20Images/12.jpg" width="400" >
+  <img src="https://github.com/RiMa00/HandBrake/blob/main/Project%20Images/14.jpg" width="400" >
+  <img src="https://github.com/RiMa00/HandBrake/blob/main/Project%20Images/7.jpg" width="400" >
   <img src="https://github.com/RiMa00/HandBrake/blob/main/Project%20Images/9.jpg" width="400" >
   <img src="https://github.com/RiMa00/HandBrake/blob/main/Project%20Images/5.jpg" width="400" >
-   <img src="https://github.com/RiMa00/HandBrake/blob/main/Project%20Images/8.jpg" width="400" >
-  <img src="https://github.com/RiMa00/HandBrake/blob/main/Project%20Images/7.jpg" width="400" >
   <img src="https://github.com/RiMa00/HandBrake/blob/main/Project%20Images/4.jpg" width="400" >
   <img src="https://github.com/RiMa00/HandBrake/blob/main/Project%20Images/3.jpg" width="400" >
   <img src="https://github.com/RiMa00/HandBrake/blob/main/Project%20Images/2.jpg" width="400" >
   <img src="https://github.com/RiMa00/HandBrake/blob/main/Project%20Images/1.jpg" width="400" >
+  
 </p>
 
 ## Short demo
