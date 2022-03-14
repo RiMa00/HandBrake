@@ -36,8 +36,8 @@ String alreadyRunD;
 #include <WiFiClient.h>
 #include <ESP8266WebServer.h>
 #include "index.h" //HTML
-const char* ssid = "*********//WiFi ssid
-const char* password = "**********//WiFi pass
+const char* ssid = "*********"//WiFi ssid
+const char* password = "**********"//WiFi pass
 ESP8266WebServer server(80); //Start Server on port 80
 //==========================================================================
 
